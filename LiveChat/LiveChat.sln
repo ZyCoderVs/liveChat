@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChat.App", "src\LiveChat.App\LiveChat.App.csproj", "{A44D3B83-3AB7-491B-9DF6-C9B80EED864F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A44D3B83-3AB7-491B-9DF6-C9B80EED864F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A44D3B83-3AB7-491B-9DF6-C9B80EED864F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A44D3B83-3AB7-491B-9DF6-C9B80EED864F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A44D3B83-3AB7-491B-9DF6-C9B80EED864F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE405EF4-2D94-4DAD-AF3A-F54A742311AA}
+	EndGlobalSection
+EndGlobal
